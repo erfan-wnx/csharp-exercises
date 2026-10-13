@@ -23,9 +23,9 @@ class Program
         // Create a Student object
         Student student = new Student
         {
-            Name = "Sara",
+            Name = "erfan",
             StudentId = 101,
-            Major = "Computer Science"
+            Major = "multimedia"
         };
 
         // Convert Student object to JSON
